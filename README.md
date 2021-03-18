@@ -18,3 +18,10 @@ Here are some ideas to get you started:
   <summary>Technologies</summary>
   <p>.NET Core</p>
 </details>
+
+<a target="_blank"
+   rel="noopener noreferrer"
+   href="https://raw.githubusercontent.com/torrocus/torrocus/master/IMAGE">
+  <img alt="ALT TEXT"
+       src="https://raw.githubusercontent.com/torrocus/torrocus/master/IMAGE">
+</a>
