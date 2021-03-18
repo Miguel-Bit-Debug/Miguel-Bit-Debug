@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <a target="_blank"
    rel="noopener noreferrer"
-   href="https://raw.githubusercontent.com/torrocus/torrocus/master/IMAGE">
+   href="https://www.linkedin.com/in/miguel-dos-santos-ribeiro-95738b181/">
   <img alt="ALT TEXT"
-       src="https://raw.githubusercontent.com/torrocus/torrocus/master/IMAGE">
+       src="https://www.linkedin.com/in/miguel-dos-santos-ribeiro-95738b181/">
 </a>
