@@ -1,4 +1,4 @@
-### Miguel dos Santos Ribeiro 👨‍💻
+### Miguel dos Santos Ribeiro 👨‍💻🐱🐱‍👓🐱‍💻🐱‍🏍
 
 <!--
 **Miguel-Bit-Debug/Miguel-Bit-Debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
