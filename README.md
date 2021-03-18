@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### https://www.linkedin.com/in/miguel-dos-santos-ribeiro-95738b181/
+<details open>
+  <summary>Technologies</summary>
+  <p>.NET Core</p>
+</details>
