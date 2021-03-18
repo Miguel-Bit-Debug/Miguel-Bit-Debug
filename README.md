@@ -4,6 +4,7 @@
 **Miguel-Bit-Debug/Miguel-Bit-Debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://www.linkedin.com/in/miguel-dos-santos-ribeiro-95738b181/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
