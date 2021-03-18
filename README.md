@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <p>.NET Core</p>
 </details>
 
-<a target="_blank"
+<a target="Upvote"
    rel="noopener noreferrer"
    href="https://www.linkedin.com/in/miguel-dos-santos-ribeiro-95738b181/">
   <img alt="ALT TEXT"
-       src="https://www.linkedin.com/in/miguel-dos-santos-ribeiro-95738b181/">
+       src="https://via.placeholder.com/150">
 </a>
