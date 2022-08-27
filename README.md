@@ -5,5 +5,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/miguel-dos-santos-ribeiro-95738b181/)
 
 ![Miguel-Bit-Debug](https://github-readme-stats.vercel.app/api?username=Miguel-Bit-Debug&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Bit-Debug&layout=compact)](https://github.com/Miguel-Bit-Debug/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Bit-Debug)](https://github.com/Miguel-Bit-Debug/github-readme-stats)
